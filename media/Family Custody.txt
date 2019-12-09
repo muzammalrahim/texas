@@ -1,0 +1,1 @@
+{"bar_card": "20190670", "full_name": "Ms. Sherrie Haussner Travers", "cases_count": 1, "all_cases_count": 29}

@@ -1,0 +1,2 @@
+{"bar_card": "12727500", "full_name": "Mr. Jeffrey Scott 'Jeff' Lynch", "cases_count": 1, "all_cases_count": 38}
+{"bar_card": "20526300", "full_name": "Mr. James A. 'Jimmy' Vaught", "cases_count": 1, "all_cases_count": 111}

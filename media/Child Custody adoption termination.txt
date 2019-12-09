@@ -1,0 +1,5 @@
+{"bar_card": "20526300", "full_name": "Mr. James A. 'Jimmy' Vaught", "cases_count": 6, "all_cases_count": 111}
+{"bar_card": "10382944", "full_name": "Ms. Linda Icenhauer-Ramirez", "cases_count": 5, "all_cases_count": 398}
+{"bar_card": "00796918", "full_name": "Mr. Brad M. Lamorgese", "cases_count": 1, "all_cases_count": 75}
+{"bar_card": "08873230", "full_name": "Mr. Keith Stewart 'Keith' Hampton", "cases_count": 1, "all_cases_count": 359}
+{"bar_card": "13260900", "full_name": "Ms. Michelle May O'Neil", "cases_count": 1, "all_cases_count": 113}

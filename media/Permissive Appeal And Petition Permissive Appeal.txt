@@ -1,0 +1,2 @@
+{"bar_card": "24067976", "full_name": "Tristan Nicolas LeGrande", "cases_count": 1, "all_cases_count": 6}
+{"bar_card": "24072295", "full_name": "Ms. Lindsey Marie Rames", "cases_count": 1, "all_cases_count": 25}

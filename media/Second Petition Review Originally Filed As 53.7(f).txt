@@ -1,0 +1,13 @@
+{"bar_card": "15053050", "full_name": "Mr. Jeffery Taylor Nobles", "cases_count": 3, "all_cases_count": 212}
+{"bar_card": "07904620", "full_name": "Mr. Robert B. 'Rob' Gilbreath", "cases_count": 2, "all_cases_count": 292}
+{"bar_card": "13395980", "full_name": "Mr. Bradley Dean 'BRAD' McClellan", "cases_count": 2, "all_cases_count": 120}
+{"bar_card": "15744050", "full_name": "Ms. Julia Fields Pendery", "cases_count": 2, "all_cases_count": 140}
+{"bar_card": "18400965", "full_name": "Ms. Georganna L. Simpson", "cases_count": 2, "all_cases_count": 233}
+{"bar_card": "04350090", "full_name": "Mr. Scott Monroe 'Scotty' Clearman", "cases_count": 1, "all_cases_count": 39}
+{"bar_card": "10382944", "full_name": "Ms. Linda Icenhauer-Ramirez", "cases_count": 1, "all_cases_count": 398}
+{"bar_card": "11035400", "full_name": "Mr. Jeff Joyce", "cases_count": 1, "all_cases_count": 77}
+{"bar_card": "13144910", "full_name": "Ms. Karen L. Marvel", "cases_count": 1, "all_cases_count": 58}
+{"bar_card": "13260900", "full_name": "Ms. Michelle May O'Neil", "cases_count": 1, "all_cases_count": 113}
+{"bar_card": "20190650", "full_name": "Mr. Mack J. Travers", "cases_count": 1, "all_cases_count": 22}
+{"bar_card": "20190670", "full_name": "Ms. Sherrie Haussner Travers", "cases_count": 1, "all_cases_count": 29}
+{"bar_card": "24046689", "full_name": "Mr. Sean Michael Reagan", "cases_count": 1, "all_cases_count": 114}

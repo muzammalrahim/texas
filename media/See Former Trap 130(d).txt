@@ -1,0 +1,11 @@
+{"bar_card": "07904620", "full_name": "Mr. Robert B. 'Rob' Gilbreath", "cases_count": 2, "all_cases_count": 292}
+{"bar_card": "09548200", "full_name": "Mr. Harry Herzog", "cases_count": 2, "all_cases_count": 57}
+{"bar_card": "00784633", "full_name": "Ms. Tracy J. Willi", "cases_count": 1, "all_cases_count": 63}
+{"bar_card": "00930500", "full_name": "Mr. Michael Kemp 'Mike Aduddell' Aduddell", "cases_count": 1, "all_cases_count": 123}
+{"bar_card": "01654700", "full_name": "Mr. Robert S. Ballentine", "cases_count": 1, "all_cases_count": 12}
+{"bar_card": "11101300", "full_name": "Mr. Don Karotkin", "cases_count": 1, "all_cases_count": 64}
+{"bar_card": "12715200", "full_name": "Mr. Roland Scott 'Scott' Lyford", "cases_count": 1, "all_cases_count": 58}
+{"bar_card": "12727500", "full_name": "Mr. Jeffrey Scott 'Jeff' Lynch", "cases_count": 1, "all_cases_count": 38}
+{"bar_card": "15053050", "full_name": "Mr. Jeffery Taylor Nobles", "cases_count": 1, "all_cases_count": 212}
+{"bar_card": "20190650", "full_name": "Mr. Mack J. Travers", "cases_count": 1, "all_cases_count": 22}
+{"bar_card": "20526300", "full_name": "Mr. James A. 'Jimmy' Vaught", "cases_count": 1, "all_cases_count": 111}

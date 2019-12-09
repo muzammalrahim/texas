@@ -1,0 +1,11 @@
+{"bar_card": "11101300", "full_name": "Mr. Don Karotkin", "cases_count": 8, "all_cases_count": 64}
+{"bar_card": "01864300", "full_name": "Mr. Chad 'Chad' Baruch", "cases_count": 4, "all_cases_count": 234}
+{"bar_card": "15053050", "full_name": "Mr. Jeffery Taylor Nobles", "cases_count": 3, "all_cases_count": 212}
+{"bar_card": "24037675", "full_name": "Ms. Beth Watkins", "cases_count": 3, "all_cases_count": 216}
+{"bar_card": "24040703", "full_name": "Ms. Caroline Clinton Batten", "cases_count": 3, "all_cases_count": 8}
+{"bar_card": "00796744", "full_name": "Mr. James Stuart 'Jim' Hering", "cases_count": 1, "all_cases_count": 34}
+{"bar_card": "00796918", "full_name": "Mr. Brad M. Lamorgese", "cases_count": 1, "all_cases_count": 75}
+{"bar_card": "12555900", "full_name": "Mr. Paul  C. Looney", "cases_count": 1, "all_cases_count": 111}
+{"bar_card": "24046689", "full_name": "Mr. Sean Michael Reagan", "cases_count": 1, "all_cases_count": 114}
+{"bar_card": "24072295", "full_name": "Ms. Lindsey Marie Rames", "cases_count": 1, "all_cases_count": 25}
+{"bar_card": "90001244", "full_name": "Mr. Chad M. Ruback", "cases_count": 1, "all_cases_count": 119}

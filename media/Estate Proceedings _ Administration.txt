@@ -1,0 +1,7 @@
+{"bar_card": "01864300", "full_name": "Mr. Chad 'Chad' Baruch", "cases_count": 2, "all_cases_count": 234}
+{"bar_card": "07904620", "full_name": "Mr. Robert B. 'Rob' Gilbreath", "cases_count": 2, "all_cases_count": 292}
+{"bar_card": "24037675", "full_name": "Ms. Beth Watkins", "cases_count": 2, "all_cases_count": 216}
+{"bar_card": "90001244", "full_name": "Mr. Chad M. Ruback", "cases_count": 2, "all_cases_count": 119}
+{"bar_card": "11768560", "full_name": "Ms. Julia Leigh Dean", "cases_count": 1, "all_cases_count": 37}
+{"bar_card": "24005122", "full_name": "Mr. Alexander B. 'Alex' Wathen", "cases_count": 1, "all_cases_count": 30}
+{"bar_card": "24046689", "full_name": "Mr. Sean Michael Reagan", "cases_count": 1, "all_cases_count": 114}

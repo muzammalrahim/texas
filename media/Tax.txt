@@ -1,0 +1,4 @@
+{"bar_card": "01864300", "full_name": "Mr. Chad 'Chad' Baruch", "cases_count": 1, "all_cases_count": 234}
+{"bar_card": "04350090", "full_name": "Mr. Scott Monroe 'Scotty' Clearman", "cases_count": 1, "all_cases_count": 39}
+{"bar_card": "15057500", "full_name": "Mr. George C. Noelke", "cases_count": 1, "all_cases_count": 34}
+{"bar_card": "24037675", "full_name": "Ms. Beth Watkins", "cases_count": 1, "all_cases_count": 216}

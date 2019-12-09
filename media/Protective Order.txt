@@ -1,0 +1,4 @@
+{"bar_card": "18400965", "full_name": "Ms. Georganna L. Simpson", "cases_count": 1, "all_cases_count": 233}
+{"bar_card": "20526300", "full_name": "Mr. James A. 'Jimmy' Vaught", "cases_count": 1, "all_cases_count": 111}
+{"bar_card": "24041130", "full_name": "Mr. Jason Lee Horton", "cases_count": 1, "all_cases_count": 78}
+{"bar_card": "24064888", "full_name": "Ms. Janice Lynn 'Janice' Berg", "cases_count": 1, "all_cases_count": 41}

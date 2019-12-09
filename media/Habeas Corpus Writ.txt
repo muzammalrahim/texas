@@ -1,0 +1,4 @@
+{"bar_card": "08873230", "full_name": "Mr. Keith Stewart 'Keith' Hampton", "cases_count": 2, "all_cases_count": 359}
+{"bar_card": "00930500", "full_name": "Mr. Michael Kemp 'Mike Aduddell' Aduddell", "cases_count": 1, "all_cases_count": 123}
+{"bar_card": "13260900", "full_name": "Ms. Michelle May O'Neil", "cases_count": 1, "all_cases_count": 113}
+{"bar_card": "18400965", "full_name": "Ms. Georganna L. Simpson", "cases_count": 1, "all_cases_count": 233}

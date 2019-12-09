@@ -1,0 +1,7 @@
+{"bar_card": "24074812", "full_name": "Mr. Jason Edward Niehaus", "cases_count": 3, "all_cases_count": 118}
+{"bar_card": "00787344", "full_name": "Ms. Nicole Wignall Deborde", "cases_count": 2, "all_cases_count": 312}
+{"bar_card": "06278450", "full_name": "Mr. Douglas M. 'Doug' Durham", "cases_count": 2, "all_cases_count": 226}
+{"bar_card": "08873230", "full_name": "Mr. Keith Stewart 'Keith' Hampton", "cases_count": 2, "all_cases_count": 359}
+{"bar_card": "24049077", "full_name": "Ms. Sarah E. Roland", "cases_count": 2, "all_cases_count": 33}
+{"bar_card": "24002739", "full_name": "Mr. Scott Howard 'Scott' Pawgan", "cases_count": 1, "all_cases_count": 154}
+{"bar_card": "24081458", "full_name": "Ms. Kristin Renea Brown", "cases_count": 1, "all_cases_count": 82}

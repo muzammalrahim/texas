@@ -1,0 +1,4 @@
+{"bar_card": "01864300", "full_name": "Mr. Chad 'Chad' Baruch", "cases_count": 5, "all_cases_count": 234}
+{"bar_card": "20526300", "full_name": "Mr. James A. 'Jimmy' Vaught", "cases_count": 2, "all_cases_count": 111}
+{"bar_card": "90001244", "full_name": "Mr. Chad M. Ruback", "cases_count": 2, "all_cases_count": 119}
+{"bar_card": "18254600", "full_name": "Mr. Gregory Don Sherwood", "cases_count": 1, "all_cases_count": 207}

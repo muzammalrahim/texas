@@ -1,0 +1,3 @@
+{"bar_card": "01654700", "full_name": "Mr. Robert S. Ballentine", "cases_count": 1, "all_cases_count": 12}
+{"bar_card": "13395980", "full_name": "Mr. Bradley Dean 'BRAD' McClellan", "cases_count": 1, "all_cases_count": 120}
+{"bar_card": "24037675", "full_name": "Ms. Beth Watkins", "cases_count": 1, "all_cases_count": 216}

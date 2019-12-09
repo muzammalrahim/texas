@@ -1,0 +1,13 @@
+{"bar_card": "07904620", "full_name": "Mr. Robert B. 'Rob' Gilbreath", "cases_count": 3, "all_cases_count": 292}
+{"bar_card": "09548200", "full_name": "Mr. Harry Herzog", "cases_count": 2, "all_cases_count": 57}
+{"bar_card": "15053050", "full_name": "Mr. Jeffery Taylor Nobles", "cases_count": 2, "all_cases_count": 212}
+{"bar_card": "00796744", "full_name": "Mr. James Stuart 'Jim' Hering", "cases_count": 1, "all_cases_count": 34}
+{"bar_card": "00796918", "full_name": "Mr. Brad M. Lamorgese", "cases_count": 1, "all_cases_count": 75}
+{"bar_card": "08873230", "full_name": "Mr. Keith Stewart 'Keith' Hampton", "cases_count": 1, "all_cases_count": 359}
+{"bar_card": "10382944", "full_name": "Ms. Linda Icenhauer-Ramirez", "cases_count": 1, "all_cases_count": 398}
+{"bar_card": "11683150", "full_name": "Mr. Andrew '\"Gator\"' Korn", "cases_count": 1, "all_cases_count": 48}
+{"bar_card": "12715200", "full_name": "Mr. Roland Scott 'Scott' Lyford", "cases_count": 1, "all_cases_count": 58}
+{"bar_card": "12727500", "full_name": "Mr. Jeffrey Scott 'Jeff' Lynch", "cases_count": 1, "all_cases_count": 38}
+{"bar_card": "13395980", "full_name": "Mr. Bradley Dean 'BRAD' McClellan", "cases_count": 1, "all_cases_count": 120}
+{"bar_card": "20190650", "full_name": "Mr. Mack J. Travers", "cases_count": 1, "all_cases_count": 22}
+{"bar_card": "90001244", "full_name": "Mr. Chad M. Ruback", "cases_count": 1, "all_cases_count": 119}

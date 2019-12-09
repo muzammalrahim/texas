@@ -1,0 +1,1 @@
+{"bar_card": "06278450", "full_name": "Mr. Douglas M. 'Doug' Durham", "cases_count": 2, "all_cases_count": 226}

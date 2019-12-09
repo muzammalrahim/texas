@@ -1,0 +1,15 @@
+{"bar_card": "07904620", "full_name": "Mr. Robert B. 'Rob' Gilbreath", "cases_count": 11, "all_cases_count": 292}
+{"bar_card": "11101300", "full_name": "Mr. Don Karotkin", "cases_count": 3, "all_cases_count": 64}
+{"bar_card": "00787386", "full_name": "Mr. Jeffrey Lee 'Jeff' Dorrell", "cases_count": 1, "all_cases_count": 81}
+{"bar_card": "00794092", "full_name": "Ms. Heather Leah 'Heather' King", "cases_count": 1, "all_cases_count": 63}
+{"bar_card": "01864300", "full_name": "Mr. Chad 'Chad' Baruch", "cases_count": 1, "all_cases_count": 234}
+{"bar_card": "04350090", "full_name": "Mr. Scott Monroe 'Scotty' Clearman", "cases_count": 1, "all_cases_count": 39}
+{"bar_card": "11260700", "full_name": "Mr. Joe Kendall", "cases_count": 1, "all_cases_count": 26}
+{"bar_card": "13395980", "full_name": "Mr. Bradley Dean 'BRAD' McClellan", "cases_count": 1, "all_cases_count": 120}
+{"bar_card": "15053050", "full_name": "Mr. Jeffery Taylor Nobles", "cases_count": 1, "all_cases_count": 212}
+{"bar_card": "18254600", "full_name": "Mr. Gregory Don Sherwood", "cases_count": 1, "all_cases_count": 207}
+{"bar_card": "18400965", "full_name": "Ms. Georganna L. Simpson", "cases_count": 1, "all_cases_count": 233}
+{"bar_card": "20526300", "full_name": "Mr. James A. 'Jimmy' Vaught", "cases_count": 1, "all_cases_count": 111}
+{"bar_card": "24046689", "full_name": "Mr. Sean Michael Reagan", "cases_count": 1, "all_cases_count": 114}
+{"bar_card": "24046754", "full_name": "Mr. Joshua Abraham 'Josh' Romero", "cases_count": 1, "all_cases_count": 20}
+{"bar_card": "90001244", "full_name": "Mr. Chad M. Ruback", "cases_count": 1, "all_cases_count": 119}

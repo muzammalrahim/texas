@@ -1,0 +1,3 @@
+{"bar_card": "11768560", "full_name": "Ms. Julia Leigh Dean", "cases_count": 1, "all_cases_count": 37}
+{"bar_card": "18400965", "full_name": "Ms. Georganna L. Simpson", "cases_count": 1, "all_cases_count": 233}
+{"bar_card": "24037675", "full_name": "Ms. Beth Watkins", "cases_count": 1, "all_cases_count": 216}

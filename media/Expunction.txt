@@ -1,0 +1,4 @@
+{"bar_card": "00787344", "full_name": "Ms. Nicole Wignall Deborde", "cases_count": 1, "all_cases_count": 312}
+{"bar_card": "08873230", "full_name": "Mr. Keith Stewart 'Keith' Hampton", "cases_count": 1, "all_cases_count": 359}
+{"bar_card": "24041917", "full_name": "Mr. Kyle Christopher 'Kyle' Simpson", "cases_count": 1, "all_cases_count": 3}
+{"bar_card": "24081458", "full_name": "Ms. Kristin Renea Brown", "cases_count": 1, "all_cases_count": 82}

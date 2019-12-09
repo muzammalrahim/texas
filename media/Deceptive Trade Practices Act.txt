@@ -1,0 +1,2 @@
+{"bar_card": "00787386", "full_name": "Mr. Jeffrey Lee 'Jeff' Dorrell", "cases_count": 1, "all_cases_count": 81}
+{"bar_card": "24046689", "full_name": "Mr. Sean Michael Reagan", "cases_count": 1, "all_cases_count": 114}

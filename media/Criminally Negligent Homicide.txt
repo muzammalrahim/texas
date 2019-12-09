@@ -1,0 +1,2 @@
+{"bar_card": "24046139", "full_name": "Mr. Austin Reeve Jackson", "cases_count": 1, "all_cases_count": 659}
+{"bar_card": "24058364", "full_name": "Shannon Leigh 'Leigh' Love", "cases_count": 1, "all_cases_count": 12}

@@ -1,0 +1,10 @@
+{"bar_card": "18254600", "full_name": "Mr. Gregory Don Sherwood", "cases_count": 6, "all_cases_count": 207}
+{"bar_card": "13260900", "full_name": "Ms. Michelle May O'Neil", "cases_count": 2, "all_cases_count": 113}
+{"bar_card": "18400965", "full_name": "Ms. Georganna L. Simpson", "cases_count": 2, "all_cases_count": 233}
+{"bar_card": "24064888", "full_name": "Ms. Janice Lynn 'Janice' Berg", "cases_count": 2, "all_cases_count": 41}
+{"bar_card": "00795301", "full_name": "Mr. Clay S. 'Clay' Conrad", "cases_count": 1, "all_cases_count": 79}
+{"bar_card": "01864300", "full_name": "Mr. Chad 'Chad' Baruch", "cases_count": 1, "all_cases_count": 234}
+{"bar_card": "24041130", "full_name": "Mr. Jason Lee Horton", "cases_count": 1, "all_cases_count": 78}
+{"bar_card": "24041325", "full_name": "Mr. Scott Fredrick 'S. F. Cactus' Lemanski", "cases_count": 1, "all_cases_count": 13}
+{"bar_card": "24046260", "full_name": "Ms. Lori Elaine Hall 'Lori Elaine Laird' Laird", "cases_count": 1, "all_cases_count": 10}
+{"bar_card": "24063781", "full_name": "Mr. Joshua Zientek", "cases_count": 1, "all_cases_count": 23}

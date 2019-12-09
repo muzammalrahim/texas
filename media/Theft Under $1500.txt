@@ -1,0 +1,1 @@
+{"bar_card": "24045938", "full_name": "Mr. Stuart Andrew 'Drew' Gibbs", "cases_count": 1, "all_cases_count": 7}

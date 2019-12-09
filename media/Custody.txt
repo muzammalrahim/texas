@@ -1,0 +1,7 @@
+{"bar_card": "18400965", "full_name": "Ms. Georganna L. Simpson", "cases_count": 6, "all_cases_count": 233}
+{"bar_card": "00794092", "full_name": "Ms. Heather Leah 'Heather' King", "cases_count": 3, "all_cases_count": 63}
+{"bar_card": "20526300", "full_name": "Mr. James A. 'Jimmy' Vaught", "cases_count": 3, "all_cases_count": 111}
+{"bar_card": "00796918", "full_name": "Mr. Brad M. Lamorgese", "cases_count": 2, "all_cases_count": 75}
+{"bar_card": "18254600", "full_name": "Mr. Gregory Don Sherwood", "cases_count": 1, "all_cases_count": 207}
+{"bar_card": "24012572", "full_name": "Mr. David Moore 'David' Eaker", "cases_count": 1, "all_cases_count": 8}
+{"bar_card": "24064888", "full_name": "Ms. Janice Lynn 'Janice' Berg", "cases_count": 1, "all_cases_count": 41}

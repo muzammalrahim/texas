@@ -1,0 +1,6 @@
+{"bar_card": "00787386", "full_name": "Mr. Jeffrey Lee 'Jeff' Dorrell", "cases_count": 2, "all_cases_count": 81}
+{"bar_card": "00930500", "full_name": "Mr. Michael Kemp 'Mike Aduddell' Aduddell", "cases_count": 1, "all_cases_count": 123}
+{"bar_card": "11768560", "full_name": "Ms. Julia Leigh Dean", "cases_count": 1, "all_cases_count": 37}
+{"bar_card": "13260900", "full_name": "Ms. Michelle May O'Neil", "cases_count": 1, "all_cases_count": 113}
+{"bar_card": "13395980", "full_name": "Mr. Bradley Dean 'BRAD' McClellan", "cases_count": 1, "all_cases_count": 120}
+{"bar_card": "24046689", "full_name": "Mr. Sean Michael Reagan", "cases_count": 1, "all_cases_count": 114}

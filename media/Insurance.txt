@@ -1,0 +1,8 @@
+{"bar_card": "00930500", "full_name": "Mr. Michael Kemp 'Mike Aduddell' Aduddell", "cases_count": 1, "all_cases_count": 123}
+{"bar_card": "04350090", "full_name": "Mr. Scott Monroe 'Scotty' Clearman", "cases_count": 1, "all_cases_count": 39}
+{"bar_card": "13260900", "full_name": "Ms. Michelle May O'Neil", "cases_count": 1, "all_cases_count": 113}
+{"bar_card": "13395980", "full_name": "Mr. Bradley Dean 'BRAD' McClellan", "cases_count": 1, "all_cases_count": 120}
+{"bar_card": "15057500", "full_name": "Mr. George C. Noelke", "cases_count": 1, "all_cases_count": 34}
+{"bar_card": "15744050", "full_name": "Ms. Julia Fields Pendery", "cases_count": 1, "all_cases_count": 140}
+{"bar_card": "24072295", "full_name": "Ms. Lindsey Marie Rames", "cases_count": 1, "all_cases_count": 25}
+{"bar_card": "24079787", "full_name": "Mr. Jonathan Louis Chaltain", "cases_count": 1, "all_cases_count": 7}

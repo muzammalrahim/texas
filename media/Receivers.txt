@@ -1,0 +1,3 @@
+{"bar_card": "00784633", "full_name": "Ms. Tracy J. Willi", "cases_count": 1, "all_cases_count": 63}
+{"bar_card": "00785239", "full_name": "Ms. Deanna Lynn Whitley", "cases_count": 1, "all_cases_count": 33}
+{"bar_card": "00796744", "full_name": "Mr. James Stuart 'Jim' Hering", "cases_count": 1, "all_cases_count": 34}

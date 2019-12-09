@@ -1,0 +1,1 @@
+{"bar_card": "13144910", "full_name": "Ms. Karen L. Marvel", "cases_count": 1, "all_cases_count": 58}

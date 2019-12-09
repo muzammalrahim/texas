@@ -1,0 +1,7 @@
+{"bar_card": "13144910", "full_name": "Ms. Karen L. Marvel", "cases_count": 2, "all_cases_count": 58}
+{"bar_card": "00787386", "full_name": "Mr. Jeffrey Lee 'Jeff' Dorrell", "cases_count": 1, "all_cases_count": 81}
+{"bar_card": "01864300", "full_name": "Mr. Chad 'Chad' Baruch", "cases_count": 1, "all_cases_count": 234}
+{"bar_card": "09548200", "full_name": "Mr. Harry Herzog", "cases_count": 1, "all_cases_count": 57}
+{"bar_card": "10382944", "full_name": "Ms. Linda Icenhauer-Ramirez", "cases_count": 1, "all_cases_count": 398}
+{"bar_card": "13260900", "full_name": "Ms. Michelle May O'Neil", "cases_count": 1, "all_cases_count": 113}
+{"bar_card": "24046689", "full_name": "Mr. Sean Michael Reagan", "cases_count": 1, "all_cases_count": 114}

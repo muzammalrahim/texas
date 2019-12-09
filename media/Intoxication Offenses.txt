@@ -1,0 +1,3 @@
+{"bar_card": "24041130", "full_name": "Mr. Jason Lee Horton", "cases_count": 1, "all_cases_count": 78}
+{"bar_card": "24046139", "full_name": "Mr. Austin Reeve Jackson", "cases_count": 1, "all_cases_count": 659}
+{"bar_card": "24048179", "full_name": "Mr. Richard Keith Oliver", "cases_count": 1, "all_cases_count": 63}

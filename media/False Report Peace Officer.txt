@@ -1,0 +1,1 @@
+{"bar_card": "24052664", "full_name": "Mr. Carlo D'Angelo", "cases_count": 1, "all_cases_count": 16}

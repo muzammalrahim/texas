@@ -1,0 +1,6 @@
+{"bar_card": "24074812", "full_name": "Mr. Jason Edward Niehaus", "cases_count": 8, "all_cases_count": 118}
+{"bar_card": "00787344", "full_name": "Ms. Nicole Wignall Deborde", "cases_count": 7, "all_cases_count": 312}
+{"bar_card": "24048179", "full_name": "Mr. Richard Keith Oliver", "cases_count": 4, "all_cases_count": 63}
+{"bar_card": "24075150", "full_name": "Mr. Kyle Timothy Therrian", "cases_count": 3, "all_cases_count": 31}
+{"bar_card": "00930500", "full_name": "Mr. Michael Kemp 'Mike Aduddell' Aduddell", "cases_count": 1, "all_cases_count": 123}
+{"bar_card": "24002739", "full_name": "Mr. Scott Howard 'Scott' Pawgan", "cases_count": 1, "all_cases_count": 154}

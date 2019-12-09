@@ -1,0 +1,4 @@
+{"bar_card": "15053050", "full_name": "Mr. Jeffery Taylor Nobles", "cases_count": 2, "all_cases_count": 212}
+{"bar_card": "07904620", "full_name": "Mr. Robert B. 'Rob' Gilbreath", "cases_count": 1, "all_cases_count": 292}
+{"bar_card": "12715200", "full_name": "Mr. Roland Scott 'Scott' Lyford", "cases_count": 1, "all_cases_count": 58}
+{"bar_card": "12727500", "full_name": "Mr. Jeffrey Scott 'Jeff' Lynch", "cases_count": 1, "all_cases_count": 38}

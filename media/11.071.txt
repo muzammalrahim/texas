@@ -1,0 +1,3 @@
+{"bar_card": "08873230", "full_name": "Mr. Keith Stewart 'Keith' Hampton", "cases_count": 4, "all_cases_count": 359}
+{"bar_card": "24048773", "full_name": "Carmen Mae Roe", "cases_count": 1, "all_cases_count": 82}
+{"bar_card": "24052664", "full_name": "Mr. Carlo D'Angelo", "cases_count": 1, "all_cases_count": 16}

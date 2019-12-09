@@ -1,0 +1,5 @@
+{"bar_card": "24046139", "full_name": "Mr. Austin Reeve Jackson", "cases_count": 6, "all_cases_count": 659}
+{"bar_card": "00787344", "full_name": "Ms. Nicole Wignall Deborde", "cases_count": 1, "all_cases_count": 312}
+{"bar_card": "00930500", "full_name": "Mr. Michael Kemp 'Mike Aduddell' Aduddell", "cases_count": 1, "all_cases_count": 123}
+{"bar_card": "24041325", "full_name": "Mr. Scott Fredrick 'S. F. Cactus' Lemanski", "cases_count": 1, "all_cases_count": 13}
+{"bar_card": "24052664", "full_name": "Mr. Carlo D'Angelo", "cases_count": 1, "all_cases_count": 16}

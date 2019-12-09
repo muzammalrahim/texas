@@ -1,0 +1,1 @@
+{"bar_card": "09548200", "full_name": "Mr. Harry Herzog", "cases_count": 1, "all_cases_count": 57}

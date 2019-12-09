@@ -1,0 +1,3 @@
+{"bar_card": "06278450", "full_name": "Mr. Douglas M. 'Doug' Durham", "cases_count": 3, "all_cases_count": 226}
+{"bar_card": "00795301", "full_name": "Mr. Clay S. 'Clay' Conrad", "cases_count": 1, "all_cases_count": 79}
+{"bar_card": "12555900", "full_name": "Mr. Paul  C. Looney", "cases_count": 1, "all_cases_count": 111}

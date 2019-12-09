@@ -1,0 +1,8 @@
+{"bar_card": "24046139", "full_name": "Mr. Austin Reeve Jackson", "cases_count": 38, "all_cases_count": 659}
+{"bar_card": "00787344", "full_name": "Ms. Nicole Wignall Deborde", "cases_count": 7, "all_cases_count": 312}
+{"bar_card": "06278450", "full_name": "Mr. Douglas M. 'Doug' Durham", "cases_count": 4, "all_cases_count": 226}
+{"bar_card": "18254600", "full_name": "Mr. Gregory Don Sherwood", "cases_count": 4, "all_cases_count": 207}
+{"bar_card": "24002739", "full_name": "Mr. Scott Howard 'Scott' Pawgan", "cases_count": 4, "all_cases_count": 154}
+{"bar_card": "00795301", "full_name": "Mr. Clay S. 'Clay' Conrad", "cases_count": 2, "all_cases_count": 79}
+{"bar_card": "24063781", "full_name": "Mr. Joshua Zientek", "cases_count": 1, "all_cases_count": 23}
+{"bar_card": "24074341", "full_name": "Ms. Constance Kay 'Connie' Hall", "cases_count": 1, "all_cases_count": 26}

@@ -1,0 +1,21 @@
+{"bar_card": "24037675", "full_name": "Ms. Beth Watkins", "cases_count": 24, "all_cases_count": 216}
+{"bar_card": "00787386", "full_name": "Mr. Jeffrey Lee 'Jeff' Dorrell", "cases_count": 8, "all_cases_count": 81}
+{"bar_card": "07904620", "full_name": "Mr. Robert B. 'Rob' Gilbreath", "cases_count": 3, "all_cases_count": 292}
+{"bar_card": "24046754", "full_name": "Mr. Joshua Abraham 'Josh' Romero", "cases_count": 3, "all_cases_count": 20}
+{"bar_card": "90001244", "full_name": "Mr. Chad M. Ruback", "cases_count": 3, "all_cases_count": 119}
+{"bar_card": "00784633", "full_name": "Ms. Tracy J. Willi", "cases_count": 2, "all_cases_count": 63}
+{"bar_card": "01864300", "full_name": "Mr. Chad 'Chad' Baruch", "cases_count": 2, "all_cases_count": 234}
+{"bar_card": "11260700", "full_name": "Mr. Joe Kendall", "cases_count": 2, "all_cases_count": 26}
+{"bar_card": "13395980", "full_name": "Mr. Bradley Dean 'BRAD' McClellan", "cases_count": 2, "all_cases_count": 120}
+{"bar_card": "24072295", "full_name": "Ms. Lindsey Marie Rames", "cases_count": 2, "all_cases_count": 25}
+{"bar_card": "00785239", "full_name": "Ms. Deanna Lynn Whitley", "cases_count": 1, "all_cases_count": 33}
+{"bar_card": "00796744", "full_name": "Mr. James Stuart 'Jim' Hering", "cases_count": 1, "all_cases_count": 34}
+{"bar_card": "09548200", "full_name": "Mr. Harry Herzog", "cases_count": 1, "all_cases_count": 57}
+{"bar_card": "11035400", "full_name": "Mr. Jeff Joyce", "cases_count": 1, "all_cases_count": 77}
+{"bar_card": "11101300", "full_name": "Mr. Don Karotkin", "cases_count": 1, "all_cases_count": 64}
+{"bar_card": "11768560", "full_name": "Ms. Julia Leigh Dean", "cases_count": 1, "all_cases_count": 37}
+{"bar_card": "12715200", "full_name": "Mr. Roland Scott 'Scott' Lyford", "cases_count": 1, "all_cases_count": 58}
+{"bar_card": "18254600", "full_name": "Mr. Gregory Don Sherwood", "cases_count": 1, "all_cases_count": 207}
+{"bar_card": "18400965", "full_name": "Ms. Georganna L. Simpson", "cases_count": 1, "all_cases_count": 233}
+{"bar_card": "24002739", "full_name": "Mr. Scott Howard 'Scott' Pawgan", "cases_count": 1, "all_cases_count": 154}
+{"bar_card": "24040703", "full_name": "Ms. Caroline Clinton Batten", "cases_count": 1, "all_cases_count": 8}

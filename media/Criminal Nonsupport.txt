@@ -1,0 +1,1 @@
+{"bar_card": "24046139", "full_name": "Mr. Austin Reeve Jackson", "cases_count": 5, "all_cases_count": 659}

@@ -1,0 +1,15 @@
+{"bar_card": "07904620", "full_name": "Mr. Robert B. 'Rob' Gilbreath", "cases_count": 11, "all_cases_count": 292}
+{"bar_card": "15744050", "full_name": "Ms. Julia Fields Pendery", "cases_count": 11, "all_cases_count": 140}
+{"bar_card": "15053050", "full_name": "Mr. Jeffery Taylor Nobles", "cases_count": 6, "all_cases_count": 212}
+{"bar_card": "10382944", "full_name": "Ms. Linda Icenhauer-Ramirez", "cases_count": 5, "all_cases_count": 398}
+{"bar_card": "09548200", "full_name": "Mr. Harry Herzog", "cases_count": 3, "all_cases_count": 57}
+{"bar_card": "11101300", "full_name": "Mr. Don Karotkin", "cases_count": 3, "all_cases_count": 64}
+{"bar_card": "12727500", "full_name": "Mr. Jeffrey Scott 'Jeff' Lynch", "cases_count": 3, "all_cases_count": 38}
+{"bar_card": "18254600", "full_name": "Mr. Gregory Don Sherwood", "cases_count": 3, "all_cases_count": 207}
+{"bar_card": "00930500", "full_name": "Mr. Michael Kemp 'Mike Aduddell' Aduddell", "cases_count": 2, "all_cases_count": 123}
+{"bar_card": "11035400", "full_name": "Mr. Jeff Joyce", "cases_count": 2, "all_cases_count": 77}
+{"bar_card": "12715200", "full_name": "Mr. Roland Scott 'Scott' Lyford", "cases_count": 2, "all_cases_count": 58}
+{"bar_card": "00785239", "full_name": "Ms. Deanna Lynn Whitley", "cases_count": 1, "all_cases_count": 33}
+{"bar_card": "01654700", "full_name": "Mr. Robert S. Ballentine", "cases_count": 1, "all_cases_count": 12}
+{"bar_card": "01864300", "full_name": "Mr. Chad 'Chad' Baruch", "cases_count": 1, "all_cases_count": 234}
+{"bar_card": "12555900", "full_name": "Mr. Paul  C. Looney", "cases_count": 1, "all_cases_count": 111}

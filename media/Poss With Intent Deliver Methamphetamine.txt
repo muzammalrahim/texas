@@ -1,0 +1,1 @@
+{"bar_card": "24074341", "full_name": "Ms. Constance Kay 'Connie' Hall", "cases_count": 1, "all_cases_count": 26}

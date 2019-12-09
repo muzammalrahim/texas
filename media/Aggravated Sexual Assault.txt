@@ -1,0 +1,24 @@
+{"bar_card": "24046139", "full_name": "Mr. Austin Reeve Jackson", "cases_count": 42, "all_cases_count": 659}
+{"bar_card": "10382944", "full_name": "Ms. Linda Icenhauer-Ramirez", "cases_count": 19, "all_cases_count": 398}
+{"bar_card": "18254600", "full_name": "Mr. Gregory Don Sherwood", "cases_count": 13, "all_cases_count": 207}
+{"bar_card": "00787344", "full_name": "Ms. Nicole Wignall Deborde", "cases_count": 10, "all_cases_count": 312}
+{"bar_card": "06278450", "full_name": "Mr. Douglas M. 'Doug' Durham", "cases_count": 10, "all_cases_count": 226}
+{"bar_card": "08873230", "full_name": "Mr. Keith Stewart 'Keith' Hampton", "cases_count": 10, "all_cases_count": 359}
+{"bar_card": "24041130", "full_name": "Mr. Jason Lee Horton", "cases_count": 10, "all_cases_count": 78}
+{"bar_card": "24081458", "full_name": "Ms. Kristin Renea Brown", "cases_count": 9, "all_cases_count": 82}
+{"bar_card": "24034373", "full_name": "Ms. Kerrisa Joy Chelkowski", "cases_count": 8, "all_cases_count": 53}
+{"bar_card": "24074341", "full_name": "Ms. Constance Kay 'Connie' Hall", "cases_count": 6, "all_cases_count": 26}
+{"bar_card": "00930500", "full_name": "Mr. Michael Kemp 'Mike Aduddell' Aduddell", "cases_count": 5, "all_cases_count": 123}
+{"bar_card": "24002739", "full_name": "Mr. Scott Howard 'Scott' Pawgan", "cases_count": 5, "all_cases_count": 154}
+{"bar_card": "24048179", "full_name": "Mr. Richard Keith Oliver", "cases_count": 4, "all_cases_count": 63}
+{"bar_card": "24048773", "full_name": "Carmen Mae Roe", "cases_count": 3, "all_cases_count": 82}
+{"bar_card": "24063781", "full_name": "Mr. Joshua Zientek", "cases_count": 3, "all_cases_count": 23}
+{"bar_card": "24074812", "full_name": "Mr. Jason Edward Niehaus", "cases_count": 3, "all_cases_count": 118}
+{"bar_card": "00794787", "full_name": "Ms. Kathryn M. Veech", "cases_count": 1, "all_cases_count": 8}
+{"bar_card": "00795301", "full_name": "Mr. Clay S. 'Clay' Conrad", "cases_count": 1, "all_cases_count": 79}
+{"bar_card": "24037675", "full_name": "Ms. Beth Watkins", "cases_count": 1, "all_cases_count": 216}
+{"bar_card": "24041325", "full_name": "Mr. Scott Fredrick 'S. F. Cactus' Lemanski", "cases_count": 1, "all_cases_count": 13}
+{"bar_card": "24042936", "full_name": "Ms. Amanda Thressa Erwin", "cases_count": 1, "all_cases_count": 27}
+{"bar_card": "24049077", "full_name": "Ms. Sarah E. Roland", "cases_count": 1, "all_cases_count": 33}
+{"bar_card": "24075150", "full_name": "Mr. Kyle Timothy Therrian", "cases_count": 1, "all_cases_count": 31}
+{"bar_card": "24077192", "full_name": "Paul Matthew Morgan", "cases_count": 1, "all_cases_count": 14}

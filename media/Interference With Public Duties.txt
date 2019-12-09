@@ -1,0 +1,2 @@
+{"bar_card": "24074812", "full_name": "Mr. Jason Edward Niehaus", "cases_count": 3, "all_cases_count": 118}
+{"bar_card": "10382944", "full_name": "Ms. Linda Icenhauer-Ramirez", "cases_count": 1, "all_cases_count": 398}

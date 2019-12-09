@@ -1,0 +1,12 @@
+{"bar_card": "01864300", "full_name": "Mr. Chad 'Chad' Baruch", "cases_count": 5, "all_cases_count": 234}
+{"bar_card": "13395980", "full_name": "Mr. Bradley Dean 'BRAD' McClellan", "cases_count": 5, "all_cases_count": 120}
+{"bar_card": "24037675", "full_name": "Ms. Beth Watkins", "cases_count": 4, "all_cases_count": 216}
+{"bar_card": "15057500", "full_name": "Mr. George C. Noelke", "cases_count": 3, "all_cases_count": 34}
+{"bar_card": "00930500", "full_name": "Mr. Michael Kemp 'Mike Aduddell' Aduddell", "cases_count": 2, "all_cases_count": 123}
+{"bar_card": "18254600", "full_name": "Mr. Gregory Don Sherwood", "cases_count": 2, "all_cases_count": 207}
+{"bar_card": "11260700", "full_name": "Mr. Joe Kendall", "cases_count": 1, "all_cases_count": 26}
+{"bar_card": "12715200", "full_name": "Mr. Roland Scott 'Scott' Lyford", "cases_count": 1, "all_cases_count": 58}
+{"bar_card": "15053050", "full_name": "Mr. Jeffery Taylor Nobles", "cases_count": 1, "all_cases_count": 212}
+{"bar_card": "24063866", "full_name": "Joshua A. 'Joshua' Fogelman", "cases_count": 1, "all_cases_count": 5}
+{"bar_card": "24079499", "full_name": "Jose Luis Valtzar", "cases_count": 1, "all_cases_count": 7}
+{"bar_card": "24079787", "full_name": "Mr. Jonathan Louis Chaltain", "cases_count": 1, "all_cases_count": 7}

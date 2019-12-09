@@ -1,0 +1,4 @@
+{"bar_card": "13395980", "full_name": "Mr. Bradley Dean 'BRAD' McClellan", "cases_count": 24, "all_cases_count": 120}
+{"bar_card": "15057500", "full_name": "Mr. George C. Noelke", "cases_count": 1, "all_cases_count": 34}
+{"bar_card": "18254600", "full_name": "Mr. Gregory Don Sherwood", "cases_count": 1, "all_cases_count": 207}
+{"bar_card": "24079787", "full_name": "Mr. Jonathan Louis Chaltain", "cases_count": 1, "all_cases_count": 7}

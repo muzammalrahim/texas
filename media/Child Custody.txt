@@ -1,0 +1,6 @@
+{"bar_card": "20526300", "full_name": "Mr. James A. 'Jimmy' Vaught", "cases_count": 14, "all_cases_count": 111}
+{"bar_card": "18400965", "full_name": "Ms. Georganna L. Simpson", "cases_count": 5, "all_cases_count": 233}
+{"bar_card": "13144910", "full_name": "Ms. Karen L. Marvel", "cases_count": 2, "all_cases_count": 58}
+{"bar_card": "01864300", "full_name": "Mr. Chad 'Chad' Baruch", "cases_count": 1, "all_cases_count": 234}
+{"bar_card": "18254600", "full_name": "Mr. Gregory Don Sherwood", "cases_count": 1, "all_cases_count": 207}
+{"bar_card": "24046260", "full_name": "Ms. Lori Elaine Hall 'Lori Elaine Laird' Laird", "cases_count": 1, "all_cases_count": 10}

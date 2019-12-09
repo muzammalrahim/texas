@@ -1,0 +1,2 @@
+{"bar_card": "00930500", "full_name": "Mr. Michael Kemp 'Mike Aduddell' Aduddell", "cases_count": 1, "all_cases_count": 123}
+{"bar_card": "24046139", "full_name": "Mr. Austin Reeve Jackson", "cases_count": 1, "all_cases_count": 659}

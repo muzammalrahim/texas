@@ -1,0 +1,21 @@
+{"bar_card": "01864300", "full_name": "Mr. Chad 'Chad' Baruch", "cases_count": 3, "all_cases_count": 234}
+{"bar_card": "15053050", "full_name": "Mr. Jeffery Taylor Nobles", "cases_count": 3, "all_cases_count": 212}
+{"bar_card": "18400965", "full_name": "Ms. Georganna L. Simpson", "cases_count": 3, "all_cases_count": 233}
+{"bar_card": "00796918", "full_name": "Mr. Brad M. Lamorgese", "cases_count": 2, "all_cases_count": 75}
+{"bar_card": "07904620", "full_name": "Mr. Robert B. 'Rob' Gilbreath", "cases_count": 2, "all_cases_count": 292}
+{"bar_card": "13395980", "full_name": "Mr. Bradley Dean 'BRAD' McClellan", "cases_count": 2, "all_cases_count": 120}
+{"bar_card": "24031594", "full_name": "Mr. David Jefrie 'David' Mizgala", "cases_count": 2, "all_cases_count": 41}
+{"bar_card": "24046689", "full_name": "Mr. Sean Michael Reagan", "cases_count": 2, "all_cases_count": 114}
+{"bar_card": "00785239", "full_name": "Ms. Deanna Lynn Whitley", "cases_count": 1, "all_cases_count": 33}
+{"bar_card": "11035400", "full_name": "Mr. Jeff Joyce", "cases_count": 1, "all_cases_count": 77}
+{"bar_card": "11101300", "full_name": "Mr. Don Karotkin", "cases_count": 1, "all_cases_count": 64}
+{"bar_card": "11768560", "full_name": "Ms. Julia Leigh Dean", "cases_count": 1, "all_cases_count": 37}
+{"bar_card": "12715200", "full_name": "Mr. Roland Scott 'Scott' Lyford", "cases_count": 1, "all_cases_count": 58}
+{"bar_card": "13144910", "full_name": "Ms. Karen L. Marvel", "cases_count": 1, "all_cases_count": 58}
+{"bar_card": "15057500", "full_name": "Mr. George C. Noelke", "cases_count": 1, "all_cases_count": 34}
+{"bar_card": "15744050", "full_name": "Ms. Julia Fields Pendery", "cases_count": 1, "all_cases_count": 140}
+{"bar_card": "20526300", "full_name": "Mr. James A. 'Jimmy' Vaught", "cases_count": 1, "all_cases_count": 111}
+{"bar_card": "24037675", "full_name": "Ms. Beth Watkins", "cases_count": 1, "all_cases_count": 216}
+{"bar_card": "24064888", "full_name": "Ms. Janice Lynn 'Janice' Berg", "cases_count": 1, "all_cases_count": 41}
+{"bar_card": "24075517", "full_name": "Ms. Ashley Patton Butler", "cases_count": 1, "all_cases_count": 3}
+{"bar_card": "90001244", "full_name": "Mr. Chad M. Ruback", "cases_count": 1, "all_cases_count": 119}

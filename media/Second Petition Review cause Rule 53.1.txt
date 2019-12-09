@@ -1,0 +1,9 @@
+{"bar_card": "07904620", "full_name": "Mr. Robert B. 'Rob' Gilbreath", "cases_count": 3, "all_cases_count": 292}
+{"bar_card": "15053050", "full_name": "Mr. Jeffery Taylor Nobles", "cases_count": 3, "all_cases_count": 212}
+{"bar_card": "24037675", "full_name": "Ms. Beth Watkins", "cases_count": 2, "all_cases_count": 216}
+{"bar_card": "11768560", "full_name": "Ms. Julia Leigh Dean", "cases_count": 1, "all_cases_count": 37}
+{"bar_card": "12715200", "full_name": "Mr. Roland Scott 'Scott' Lyford", "cases_count": 1, "all_cases_count": 58}
+{"bar_card": "13144910", "full_name": "Ms. Karen L. Marvel", "cases_count": 1, "all_cases_count": 58}
+{"bar_card": "15744050", "full_name": "Ms. Julia Fields Pendery", "cases_count": 1, "all_cases_count": 140}
+{"bar_card": "18400965", "full_name": "Ms. Georganna L. Simpson", "cases_count": 1, "all_cases_count": 233}
+{"bar_card": "90001244", "full_name": "Mr. Chad M. Ruback", "cases_count": 1, "all_cases_count": 119}

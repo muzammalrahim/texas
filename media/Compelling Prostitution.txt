@@ -1,0 +1,2 @@
+{"bar_card": "00787344", "full_name": "Ms. Nicole Wignall Deborde", "cases_count": 1, "all_cases_count": 312}
+{"bar_card": "24034373", "full_name": "Ms. Kerrisa Joy Chelkowski", "cases_count": 1, "all_cases_count": 53}

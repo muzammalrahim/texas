@@ -1,0 +1,6 @@
+{"bar_card": "00796918", "full_name": "Mr. Brad M. Lamorgese", "cases_count": 2, "all_cases_count": 75}
+{"bar_card": "00794092", "full_name": "Ms. Heather Leah 'Heather' King", "cases_count": 1, "all_cases_count": 63}
+{"bar_card": "02015740", "full_name": "Mr. Keith D. Becker", "cases_count": 1, "all_cases_count": 16}
+{"bar_card": "07904620", "full_name": "Mr. Robert B. 'Rob' Gilbreath", "cases_count": 1, "all_cases_count": 292}
+{"bar_card": "11683150", "full_name": "Mr. Andrew '\"Gator\"' Korn", "cases_count": 1, "all_cases_count": 48}
+{"bar_card": "13144910", "full_name": "Ms. Karen L. Marvel", "cases_count": 1, "all_cases_count": 58}

@@ -1,0 +1,16 @@
+{"bar_card": "00930500", "full_name": "Mr. Michael Kemp 'Mike Aduddell' Aduddell", "cases_count": 2, "all_cases_count": 123}
+{"bar_card": "01864300", "full_name": "Mr. Chad 'Chad' Baruch", "cases_count": 2, "all_cases_count": 234}
+{"bar_card": "13144910", "full_name": "Ms. Karen L. Marvel", "cases_count": 2, "all_cases_count": 58}
+{"bar_card": "20526300", "full_name": "Mr. James A. 'Jimmy' Vaught", "cases_count": 2, "all_cases_count": 111}
+{"bar_card": "00784633", "full_name": "Ms. Tracy J. Willi", "cases_count": 1, "all_cases_count": 63}
+{"bar_card": "00795301", "full_name": "Mr. Clay S. 'Clay' Conrad", "cases_count": 1, "all_cases_count": 79}
+{"bar_card": "06278450", "full_name": "Mr. Douglas M. 'Doug' Durham", "cases_count": 1, "all_cases_count": 226}
+{"bar_card": "11101300", "full_name": "Mr. Don Karotkin", "cases_count": 1, "all_cases_count": 64}
+{"bar_card": "11683150", "full_name": "Mr. Andrew '\"Gator\"' Korn", "cases_count": 1, "all_cases_count": 48}
+{"bar_card": "15744050", "full_name": "Ms. Julia Fields Pendery", "cases_count": 1, "all_cases_count": 140}
+{"bar_card": "18254600", "full_name": "Mr. Gregory Don Sherwood", "cases_count": 1, "all_cases_count": 207}
+{"bar_card": "18400965", "full_name": "Ms. Georganna L. Simpson", "cases_count": 1, "all_cases_count": 233}
+{"bar_card": "24041917", "full_name": "Mr. Kyle Christopher 'Kyle' Simpson", "cases_count": 1, "all_cases_count": 3}
+{"bar_card": "24064888", "full_name": "Ms. Janice Lynn 'Janice' Berg", "cases_count": 1, "all_cases_count": 41}
+{"bar_card": "24081458", "full_name": "Ms. Kristin Renea Brown", "cases_count": 1, "all_cases_count": 82}
+{"bar_card": "90001244", "full_name": "Mr. Chad M. Ruback", "cases_count": 1, "all_cases_count": 119}

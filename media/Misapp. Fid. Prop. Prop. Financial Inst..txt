@@ -1,0 +1,1 @@
+{"bar_card": "24041325", "full_name": "Mr. Scott Fredrick 'S. F. Cactus' Lemanski", "cases_count": 1, "all_cases_count": 13}

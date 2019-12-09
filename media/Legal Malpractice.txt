@@ -1,0 +1,1 @@
+{"bar_card": "20190650", "full_name": "Mr. Mack J. Travers", "cases_count": 1, "all_cases_count": 22}

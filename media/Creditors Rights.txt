@@ -1,0 +1,3 @@
+{"bar_card": "07904620", "full_name": "Mr. Robert B. 'Rob' Gilbreath", "cases_count": 2, "all_cases_count": 292}
+{"bar_card": "01864300", "full_name": "Mr. Chad 'Chad' Baruch", "cases_count": 1, "all_cases_count": 234}
+{"bar_card": "24074020", "full_name": "Mr. Hershel Robert Chapin", "cases_count": 1, "all_cases_count": 3}

@@ -1,0 +1,1 @@
+{"bar_card": "24075150", "full_name": "Mr. Kyle Timothy Therrian", "cases_count": 1, "all_cases_count": 31}

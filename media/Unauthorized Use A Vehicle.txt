@@ -1,0 +1,4 @@
+{"bar_card": "24074812", "full_name": "Mr. Jason Edward Niehaus", "cases_count": 3, "all_cases_count": 118}
+{"bar_card": "24046139", "full_name": "Mr. Austin Reeve Jackson", "cases_count": 2, "all_cases_count": 659}
+{"bar_card": "24002739", "full_name": "Mr. Scott Howard 'Scott' Pawgan", "cases_count": 1, "all_cases_count": 154}
+{"bar_card": "24058364", "full_name": "Shannon Leigh 'Leigh' Love", "cases_count": 1, "all_cases_count": 12}

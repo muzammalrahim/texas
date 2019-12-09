@@ -1,0 +1,15 @@
+{"bar_card": "24048179", "full_name": "Mr. Richard Keith Oliver", "cases_count": 8, "all_cases_count": 63}
+{"bar_card": "08873230", "full_name": "Mr. Keith Stewart 'Keith' Hampton", "cases_count": 7, "all_cases_count": 359}
+{"bar_card": "10382944", "full_name": "Ms. Linda Icenhauer-Ramirez", "cases_count": 7, "all_cases_count": 398}
+{"bar_card": "24048773", "full_name": "Carmen Mae Roe", "cases_count": 6, "all_cases_count": 82}
+{"bar_card": "24034373", "full_name": "Ms. Kerrisa Joy Chelkowski", "cases_count": 5, "all_cases_count": 53}
+{"bar_card": "00787344", "full_name": "Ms. Nicole Wignall Deborde", "cases_count": 3, "all_cases_count": 312}
+{"bar_card": "06278450", "full_name": "Mr. Douglas M. 'Doug' Durham", "cases_count": 3, "all_cases_count": 226}
+{"bar_card": "18254600", "full_name": "Mr. Gregory Don Sherwood", "cases_count": 3, "all_cases_count": 207}
+{"bar_card": "24046139", "full_name": "Mr. Austin Reeve Jackson", "cases_count": 2, "all_cases_count": 659}
+{"bar_card": "00930500", "full_name": "Mr. Michael Kemp 'Mike Aduddell' Aduddell", "cases_count": 1, "all_cases_count": 123}
+{"bar_card": "24057074", "full_name": "Ms. Jessica Sundance Joyner", "cases_count": 1, "all_cases_count": 1}
+{"bar_card": "24058364", "full_name": "Shannon Leigh 'Leigh' Love", "cases_count": 1, "all_cases_count": 12}
+{"bar_card": "24066770", "full_name": "Ms. Sarah Kerr Fox", "cases_count": 1, "all_cases_count": 13}
+{"bar_card": "24074812", "full_name": "Mr. Jason Edward Niehaus", "cases_count": 1, "all_cases_count": 118}
+{"bar_card": "24075150", "full_name": "Mr. Kyle Timothy Therrian", "cases_count": 1, "all_cases_count": 31}

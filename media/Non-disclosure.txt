@@ -1,0 +1,1 @@
+{"bar_card": "04350090", "full_name": "Mr. Scott Monroe 'Scotty' Clearman", "cases_count": 1, "all_cases_count": 39}

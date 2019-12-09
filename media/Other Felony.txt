@@ -1,0 +1,11 @@
+{"bar_card": "10382944", "full_name": "Ms. Linda Icenhauer-Ramirez", "cases_count": 13, "all_cases_count": 398}
+{"bar_card": "08873230", "full_name": "Mr. Keith Stewart 'Keith' Hampton", "cases_count": 12, "all_cases_count": 359}
+{"bar_card": "06278450", "full_name": "Mr. Douglas M. 'Doug' Durham", "cases_count": 9, "all_cases_count": 226}
+{"bar_card": "24066770", "full_name": "Ms. Sarah Kerr Fox", "cases_count": 7, "all_cases_count": 13}
+{"bar_card": "20190670", "full_name": "Ms. Sherrie Haussner Travers", "cases_count": 6, "all_cases_count": 29}
+{"bar_card": "24075150", "full_name": "Mr. Kyle Timothy Therrian", "cases_count": 3, "all_cases_count": 31}
+{"bar_card": "00785239", "full_name": "Ms. Deanna Lynn Whitley", "cases_count": 2, "all_cases_count": 33}
+{"bar_card": "00930500", "full_name": "Mr. Michael Kemp 'Mike Aduddell' Aduddell", "cases_count": 2, "all_cases_count": 123}
+{"bar_card": "12555900", "full_name": "Mr. Paul  C. Looney", "cases_count": 2, "all_cases_count": 111}
+{"bar_card": "00794787", "full_name": "Ms. Kathryn M. Veech", "cases_count": 1, "all_cases_count": 8}
+{"bar_card": "11035400", "full_name": "Mr. Jeff Joyce", "cases_count": 1, "all_cases_count": 77}

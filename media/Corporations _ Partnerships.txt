@@ -1,0 +1,4 @@
+{"bar_card": "07904620", "full_name": "Mr. Robert B. 'Rob' Gilbreath", "cases_count": 5, "all_cases_count": 292}
+{"bar_card": "11260700", "full_name": "Mr. Joe Kendall", "cases_count": 2, "all_cases_count": 26}
+{"bar_card": "09413800", "full_name": "Mr. Robert D. 'Bob' Hemphill", "cases_count": 1, "all_cases_count": 5}
+{"bar_card": "24072295", "full_name": "Ms. Lindsey Marie Rames", "cases_count": 1, "all_cases_count": 25}

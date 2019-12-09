@@ -1,0 +1,1 @@
+{"bar_card": "00930500", "full_name": "Mr. Michael Kemp 'Mike Aduddell' Aduddell", "cases_count": 2, "all_cases_count": 123}

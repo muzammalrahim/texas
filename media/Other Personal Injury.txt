@@ -1,0 +1,24 @@
+{"bar_card": "15744050", "full_name": "Ms. Julia Fields Pendery", "cases_count": 10, "all_cases_count": 140}
+{"bar_card": "15053050", "full_name": "Mr. Jeffery Taylor Nobles", "cases_count": 6, "all_cases_count": 212}
+{"bar_card": "04350090", "full_name": "Mr. Scott Monroe 'Scotty' Clearman", "cases_count": 4, "all_cases_count": 39}
+{"bar_card": "11101300", "full_name": "Mr. Don Karotkin", "cases_count": 4, "all_cases_count": 64}
+{"bar_card": "07904620", "full_name": "Mr. Robert B. 'Rob' Gilbreath", "cases_count": 3, "all_cases_count": 292}
+{"bar_card": "11768560", "full_name": "Ms. Julia Leigh Dean", "cases_count": 3, "all_cases_count": 37}
+{"bar_card": "11035400", "full_name": "Mr. Jeff Joyce", "cases_count": 2, "all_cases_count": 77}
+{"bar_card": "12715200", "full_name": "Mr. Roland Scott 'Scott' Lyford", "cases_count": 2, "all_cases_count": 58}
+{"bar_card": "12727500", "full_name": "Mr. Jeffrey Scott 'Jeff' Lynch", "cases_count": 2, "all_cases_count": 38}
+{"bar_card": "18400965", "full_name": "Ms. Georganna L. Simpson", "cases_count": 2, "all_cases_count": 233}
+{"bar_card": "20190650", "full_name": "Mr. Mack J. Travers", "cases_count": 2, "all_cases_count": 22}
+{"bar_card": "00784633", "full_name": "Ms. Tracy J. Willi", "cases_count": 1, "all_cases_count": 63}
+{"bar_card": "00787386", "full_name": "Mr. Jeffrey Lee 'Jeff' Dorrell", "cases_count": 1, "all_cases_count": 81}
+{"bar_card": "11260700", "full_name": "Mr. Joe Kendall", "cases_count": 1, "all_cases_count": 26}
+{"bar_card": "11683150", "full_name": "Mr. Andrew '\"Gator\"' Korn", "cases_count": 1, "all_cases_count": 48}
+{"bar_card": "12555900", "full_name": "Mr. Paul  C. Looney", "cases_count": 1, "all_cases_count": 111}
+{"bar_card": "13260900", "full_name": "Ms. Michelle May O'Neil", "cases_count": 1, "all_cases_count": 113}
+{"bar_card": "13395980", "full_name": "Mr. Bradley Dean 'BRAD' McClellan", "cases_count": 1, "all_cases_count": 120}
+{"bar_card": "20190670", "full_name": "Ms. Sherrie Haussner Travers", "cases_count": 1, "all_cases_count": 29}
+{"bar_card": "24012572", "full_name": "Mr. David Moore 'David' Eaker", "cases_count": 1, "all_cases_count": 8}
+{"bar_card": "24037675", "full_name": "Ms. Beth Watkins", "cases_count": 1, "all_cases_count": 216}
+{"bar_card": "24046260", "full_name": "Ms. Lori Elaine Hall 'Lori Elaine Laird' Laird", "cases_count": 1, "all_cases_count": 10}
+{"bar_card": "24046689", "full_name": "Mr. Sean Michael Reagan", "cases_count": 1, "all_cases_count": 114}
+{"bar_card": "90001244", "full_name": "Mr. Chad M. Ruback", "cases_count": 1, "all_cases_count": 119}

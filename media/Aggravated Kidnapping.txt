@@ -1,0 +1,9 @@
+{"bar_card": "08873230", "full_name": "Mr. Keith Stewart 'Keith' Hampton", "cases_count": 5, "all_cases_count": 359}
+{"bar_card": "24046139", "full_name": "Mr. Austin Reeve Jackson", "cases_count": 5, "all_cases_count": 659}
+{"bar_card": "18254600", "full_name": "Mr. Gregory Don Sherwood", "cases_count": 2, "all_cases_count": 207}
+{"bar_card": "24002739", "full_name": "Mr. Scott Howard 'Scott' Pawgan", "cases_count": 2, "all_cases_count": 154}
+{"bar_card": "24042936", "full_name": "Ms. Amanda Thressa Erwin", "cases_count": 2, "all_cases_count": 27}
+{"bar_card": "24048773", "full_name": "Carmen Mae Roe", "cases_count": 2, "all_cases_count": 82}
+{"bar_card": "10382944", "full_name": "Ms. Linda Icenhauer-Ramirez", "cases_count": 1, "all_cases_count": 398}
+{"bar_card": "24037675", "full_name": "Ms. Beth Watkins", "cases_count": 1, "all_cases_count": 216}
+{"bar_card": "24063781", "full_name": "Mr. Joshua Zientek", "cases_count": 1, "all_cases_count": 23}

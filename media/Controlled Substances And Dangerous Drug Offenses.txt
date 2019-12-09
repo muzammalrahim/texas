@@ -1,0 +1,2 @@
+{"bar_card": "10382944", "full_name": "Ms. Linda Icenhauer-Ramirez", "cases_count": 3, "all_cases_count": 398}
+{"bar_card": "08873230", "full_name": "Mr. Keith Stewart 'Keith' Hampton", "cases_count": 2, "all_cases_count": 359}

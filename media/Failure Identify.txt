@@ -1,0 +1,2 @@
+{"bar_card": "24037121", "full_name": "Ms. Claire Monsman Petty", "cases_count": 1, "all_cases_count": 15}
+{"bar_card": "24081458", "full_name": "Ms. Kristin Renea Brown", "cases_count": 1, "all_cases_count": 82}

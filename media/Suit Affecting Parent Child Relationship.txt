@@ -1,0 +1,21 @@
+{"bar_card": "18400965", "full_name": "Ms. Georganna L. Simpson", "cases_count": 22, "all_cases_count": 233}
+{"bar_card": "13260900", "full_name": "Ms. Michelle May O'Neil", "cases_count": 17, "all_cases_count": 113}
+{"bar_card": "01864300", "full_name": "Mr. Chad 'Chad' Baruch", "cases_count": 14, "all_cases_count": 234}
+{"bar_card": "13144910", "full_name": "Ms. Karen L. Marvel", "cases_count": 8, "all_cases_count": 58}
+{"bar_card": "00785239", "full_name": "Ms. Deanna Lynn Whitley", "cases_count": 6, "all_cases_count": 33}
+{"bar_card": "00796918", "full_name": "Mr. Brad M. Lamorgese", "cases_count": 5, "all_cases_count": 75}
+{"bar_card": "24037675", "full_name": "Ms. Beth Watkins", "cases_count": 5, "all_cases_count": 216}
+{"bar_card": "02015740", "full_name": "Mr. Keith D. Becker", "cases_count": 4, "all_cases_count": 16}
+{"bar_card": "24064888", "full_name": "Ms. Janice Lynn 'Janice' Berg", "cases_count": 3, "all_cases_count": 41}
+{"bar_card": "00794092", "full_name": "Ms. Heather Leah 'Heather' King", "cases_count": 2, "all_cases_count": 63}
+{"bar_card": "24074341", "full_name": "Ms. Constance Kay 'Connie' Hall", "cases_count": 2, "all_cases_count": 26}
+{"bar_card": "24075517", "full_name": "Ms. Ashley Patton Butler", "cases_count": 2, "all_cases_count": 3}
+{"bar_card": "00930500", "full_name": "Mr. Michael Kemp 'Mike Aduddell' Aduddell", "cases_count": 1, "all_cases_count": 123}
+{"bar_card": "15053050", "full_name": "Mr. Jeffery Taylor Nobles", "cases_count": 1, "all_cases_count": 212}
+{"bar_card": "20190650", "full_name": "Mr. Mack J. Travers", "cases_count": 1, "all_cases_count": 22}
+{"bar_card": "20526300", "full_name": "Mr. James A. 'Jimmy' Vaught", "cases_count": 1, "all_cases_count": 111}
+{"bar_card": "24012572", "full_name": "Mr. David Moore 'David' Eaker", "cases_count": 1, "all_cases_count": 8}
+{"bar_card": "24034373", "full_name": "Ms. Kerrisa Joy Chelkowski", "cases_count": 1, "all_cases_count": 53}
+{"bar_card": "24046260", "full_name": "Ms. Lori Elaine Hall 'Lori Elaine Laird' Laird", "cases_count": 1, "all_cases_count": 10}
+{"bar_card": "24046689", "full_name": "Mr. Sean Michael Reagan", "cases_count": 1, "all_cases_count": 114}
+{"bar_card": "24047010", "full_name": "Ms. Kathleen Marie Turton", "cases_count": 1, "all_cases_count": 1}
